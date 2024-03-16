@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tina
+- 👋 First class project
 - 🌱This is a markdown file
 - 
 TinaNmor/TinaNmor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
